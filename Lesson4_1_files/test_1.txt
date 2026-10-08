@@ -1,0 +1,4 @@
+test_log_out:PASSED
+test_register:PASSED
+test_login:FAILED
+test_log_out:PASSED
